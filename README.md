@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=E34F26">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)
 
 
