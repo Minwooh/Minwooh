@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Minwoo's%GitHub)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=REACT&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
