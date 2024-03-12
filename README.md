@@ -1,7 +1,7 @@
 ##
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Minwoo's%GitHub)
 
-<div align="center">
 <h2>🔨 Once I've used 🔨</h2>
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/REACT-000000?style=flat&logo=REACT&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=black" />
@@ -12,12 +12,12 @@
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat&logo=Flutter&logoColor=000000" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=000000" />
 
-</div> </div>
+</div>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)
-
+</div>
 
 <!--
 **Minwooh/Minwooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
