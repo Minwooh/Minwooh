@@ -19,9 +19,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-</div>
 
+</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **Minwooh/Minwooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
