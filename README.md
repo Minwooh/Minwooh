@@ -21,7 +21,7 @@
 
 
 </div>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 **Minwooh/Minwooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
