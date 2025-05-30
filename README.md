@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=000000" />
 
 </div>
-
+<!-- <h2>🔥 개발 고통을 즐기는 🔥</h2> -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)
