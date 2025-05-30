@@ -16,7 +16,7 @@
 <p>🔥 개발 고통을 즐기는 사람이 될거다 🔥</p> 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical)</img>
 
 
 </div>
