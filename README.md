@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=000000" />
 </div>
 
-<hr/>
 <p>🔥 개발 고통을 즐기는 사람이 될거다 🔥</p> 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact"><br><br>
