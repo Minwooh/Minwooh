@@ -9,7 +9,6 @@
 
 <h2>📖 Learning 📖</h2>
 <img src="https://img.shields.io/badge/REACT NATIVE-000000?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/DART-0175C2? style=flat&logo=Dart&logoColor=yellow" />
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat&logo=Flutter&logoColor=000000" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=000000" />
 </div>
