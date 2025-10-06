@@ -1,6 +1,6 @@
 
 ##
-![header](https://capsule-render.vercel.app/api?type=waving&text=Minwoo's%GitHub)
+![Image](https://github.com/user-attachments/assets/7c8aa582-5f1b-48c9-aa28-662882c1ff8c)
 
 <div align="center">
 <h2>🔨 Once I've used 🔨</h2>
