@@ -3,17 +3,12 @@
 ![Image](https://github.com/user-attachments/assets/7c8aa582-5f1b-48c9-aa28-662882c1ff8c)
 
 <div align="center">
-<h2>🔨 Once I've used 🔨</h2>
+<h2>🔨 STACKS 🔨</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,react,ts,nextjs" />
   </a>
 </p>
-
-<h2>📖 Learning 📖</h2>
-<img src="https://img.shields.io/badge/REACT NATIVE-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=Flutter&logoColor=000000" />
-</div>
 
 <p>🔥 개발 고통을 즐기는 사람이 될거다 🔥</p> 
 <br>
