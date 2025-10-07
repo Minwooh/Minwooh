@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical" />
 
-**[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Minwooh)](https://github.com/marshallku/gitgarden)
+<!-- [![GitGarden](https://gitgarden.marshallku.dev/?user_name=Minwooh)](https://github.com/marshallku/gitgarden) -->
 
 </div>
 
