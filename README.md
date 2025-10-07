@@ -2,8 +2,9 @@
 ##
 ![Image](https://github.com/user-attachments/assets/7c8aa582-5f1b-48c9-aa28-662882c1ff8c)
 
-<div align="center">
+<div>
 ### ✨ Experiences
+
 - **LIKELION of DWU 11th**  
 <sub>Crew (2023)</sub>
 
