@@ -46,6 +46,8 @@
 - **[대동제 축제 사이트 - FE](https://github.com/qkrwngml/uniVERSE_frontend_)**
 - **[니어 - FE](https://github.com/LIKELION-DWU/MUNG_NIOR2)**
 
+### Study
+<a href="https://velog.io/@lazy_hong/posts" target="_blank"><img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/a118006b-51ce-4fc8-8fe2-4c5f13fab045" /></a>
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact" /><br><br>
