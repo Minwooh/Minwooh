@@ -6,7 +6,7 @@
 
 ### 🔨 STACKS
 
-  <p align="center">
+  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=css,html,js,react,ts,nextjs" />
     </a>
