@@ -13,6 +13,9 @@
   </p>
   
 ### 🤸🏽 Experiences
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/96cd4b9d-7cfe-4db4-a1e7-19c0257286ad" />
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b5f039f4-d391-40f7-ad66-49be9d959cd8" />
+<img width="50" height="60" alt="Image" src="https://github.com/user-attachments/assets/d96b2584-2216-4220-abec-fcd7377b3d91" />
 
 - **LIKELION of DWU 11th**  
 <sub>crew : fontend (2023)</sub>
