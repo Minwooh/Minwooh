@@ -20,6 +20,9 @@
 - **LIKELION of DWU 11th**  
 <sub>crew : fontend (2023)</sub>
 
+- **[2023-HERETHON](https://github.com/2023-HERETHON)**  
+<sub>crew : fontend (2023)</sub>
+
 - **goormthon univ 1st**  
 <sub>crew : frontend (2023)</sub>
   
