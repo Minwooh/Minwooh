@@ -37,7 +37,7 @@
 
 - 정보처리기사 취득 (24.09.10)
 - sqld 취득 (25.09.19)
-- 신한DS SW아카데미 팀 프로젝트 (🥨 우수상) 
+- [신한DS SW아카데미 팀 프로젝트 (🥨 우수상)](https://avgmax.shinhanacademy.co.kr/)
 
 ### 🤗 Projects
 - **[RABBIT - FE](https://github.com/avgMax5/Rabbit-FE)**
