@@ -48,12 +48,6 @@
 
 ### 🔥 Study
 <a href="https://velog.io/@lazy_hong/posts" target="_blank"><img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/a118006b-51ce-4fc8-8fe2-4c5f13fab045" /></a>
-------------------------------
-[Slow..Update..]<br>
-🥨 [리액트 공부 (기초부터 차근차근)](https://pickle-meadowlark-523.notion.site/REACT-8dd0372d7aba447298a5bac972984f0a?source=copy_link)<br>
-🥨 [CSS 빠르게 찾기 위해](https://pickle-meadowlark-523.notion.site/CSS-f89b8006fddb4a738ac73107553f59ed?source=copy_link)<br>
-🥨 [JS 너는 뭐야](https://pickle-meadowlark-523.notion.site/JAVASCRIPT-711a78a65e674df2b5c65cad3b8e84bf?source=copy_link)<br>
-
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact" /><br><br>
