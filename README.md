@@ -48,10 +48,6 @@
 
 ### 🔥 Study
 <a href="https://velog.io/@lazy_hong/posts" target="_blank"><img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/a118006b-51ce-4fc8-8fe2-4c5f13fab045" /></a>
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minwooh&layout=compact" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Minwooh&show_icons=true&theme=radical" />
   
   <!-- [![GitGarden](https://gitgarden.marshallku.dev/?user_name=Minwooh)](https://github.com/marshallku/gitgarden) -->
 </div>
