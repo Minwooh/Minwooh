@@ -40,7 +40,7 @@
 - [신한DS SW아카데미 팀 프로젝트 (🥨 우수상)](https://avgmax.shinhanacademy.co.kr/)
 
 ### 🤗 Projects
-- **[RABBIT - FE](https://github.com/avgMax5/Rabbit-FE)**
+- **[RABBIT - FE](https://github.com/Minwooh/Refactor-Rabbit-FE)**
 - **[F12Mall - FE/BE](https://github.com/avgMax5/F12Mall)**
 - **[뜬구름 - FE](https://github.com/9oormthon-univ/TEAM_4)**
 - **[대동제 축제 사이트 - FE](https://github.com/qkrwngml/uniVERSE_frontend_)**
